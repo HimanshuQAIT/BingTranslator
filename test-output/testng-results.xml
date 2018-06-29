@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="32139" started-at="2018-06-29T07:56:29Z" finished-at="2018-06-29T07:57:01Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="32139" started-at="2018-06-29T07:56:29Z" finished-at="2018-06-29T07:57:01Z">
+      <class name="com.qait.Bing.BingTranslator.TestBing">
+        <test-method status="PASS" signature="InitializeBrowser()[pri:0, instance:com.qait.Bing.BingTranslator.TestBing@47c62251]" name="InitializeBrowser" is-config="true" duration-ms="4763" started-at="2018-06-29T07:56:29Z" finished-at="2018-06-29T07:56:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InitializeBrowser -->
+        <test-method status="PASS" signature="TestOpenBingTranslator()[pri:0, instance:com.qait.Bing.BingTranslator.TestBing@47c62251]" name="TestOpenBingTranslator" duration-ms="1860" started-at="2018-06-29T07:56:33Z" finished-at="2018-06-29T07:56:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestOpenBingTranslator -->
+        <test-method status="PASS" signature="CheckMenuItemTranslator()[pri:1, instance:com.qait.Bing.BingTranslator.TestBing@47c62251]" name="CheckMenuItemTranslator" duration-ms="24733" started-at="2018-06-29T07:56:35Z" finished-at="2018-06-29T07:57:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckMenuItemTranslator -->
+        <test-method status="PASS" signature="ChooseInputLanguage()[pri:2, instance:com.qait.Bing.BingTranslator.TestBing@47c62251]" name="ChooseInputLanguage" duration-ms="555" started-at="2018-06-29T07:57:00Z" finished-at="2018-06-29T07:57:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ChooseInputLanguage -->
+        <test-method status="PASS" signature="ChooseOutputLanguage()[pri:3, instance:com.qait.Bing.BingTranslator.TestBing@47c62251]" name="ChooseOutputLanguage" duration-ms="79" started-at="2018-06-29T07:57:01Z" finished-at="2018-06-29T07:57:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ChooseOutputLanguage -->
+        <test-method status="PASS" signature="EnterTextToTranslate()[pri:4, instance:com.qait.Bing.BingTranslator.TestBing@47c62251]" name="EnterTextToTranslate" duration-ms="108" started-at="2018-06-29T07:57:01Z" finished-at="2018-06-29T07:57:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EnterTextToTranslate -->
+        <test-method status="PASS" signature="GetTranslatedText()[pri:5, instance:com.qait.Bing.BingTranslator.TestBing@47c62251]" name="GetTranslatedText" duration-ms="18" started-at="2018-06-29T07:57:01Z" finished-at="2018-06-29T07:57:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetTranslatedText -->
+      </class> <!-- com.qait.Bing.BingTranslator.TestBing -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
